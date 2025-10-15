@@ -1,0 +1,18 @@
+S/N,Screen On Time (minutes),Battery Drop (%),Class Label
+1,10,6,Low
+2,14,8,Low
+3,44,16,Medium
+4,63,16,Medium
+5,84,41,High
+6,23,10,Low
+7,36,17,Medium
+8,57,20,Medium
+9,71,24,Medium
+10,96,28,High
+11,28,9,Low
+12,103,55,High
+13,66,36,High
+14,125,47,High
+15,5,2,Low
+16,112,31,High
+17,79,43,High
